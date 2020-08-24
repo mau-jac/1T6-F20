@@ -22,7 +22,7 @@ This webpage is written in [Markdown](https://www.markdownguide.org/), built wit
 
 ## Source Code
 
-This page is open source, visit the [source code on GitHub](https://github.com/mau-jac/2W6-UI).
+This page is open source, visit the [source code on GitHub](https://github.com/mau-jac/1T6-F20).
 
 ### Download and run locally
 
