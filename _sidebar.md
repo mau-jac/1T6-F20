@@ -1,3 +1,3 @@
 
 * [Home](/)
-* [Week1](week01/information_cycle.md)
+* [Week1](wk1/information_cycle.md)
