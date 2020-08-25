@@ -95,7 +95,7 @@ For the amount of long-term storage space (assuming you only have one storage di
 3. Select "Properties"
 4. Note the capacity of your disk
 
-![thisPCspecs](assets/thisPCspecs.gif)
+![storageSpecs](assets/storageSpecs.gif)
 
 
 
@@ -179,6 +179,10 @@ The Central Processing Unit (CPU) of a computer is responsible for transforming 
 
 
 
+There are other important modules in the CPU such as the Address Computation Unit (ACU) and the Memory Management Unit (MMU) but we will neglect them for now.
+
+
+
 Adding this new model to the information cycle we get the following picture:
 
 
@@ -187,3 +191,68 @@ Adding this new model to the information cycle we get the following picture:
 
 
 
+**Note the following:**
+
+- The CPU together with the RAM are responsible for the processing of information.
+- This happens because the CPU needs a location to "hold" data while it's being processed that is fast to access.
+- In a modern CPU architecture, the CU and the ALU are located in the Core.
+
+
+
+<br>
+
+Let's take a look at the Intel Core i5 750 released in 2008. It's a quad core processor clocked at 2.66GHz.
+
+
+
+![Intel Core i5-750 - Asus MIIIF by GhOstXFX on DeviantArt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.N6vZwouOFlAqCmaMqa81ygHaE8%26pid%3DApi&f=1)
+
+<p align="center"><a href="https://www.deviantart.com/ghostxfx/art/Intel-Core-i5-750-Asus-MIIIF-165999834"><em>Intel Core i5-750 - Asus MIIIF by GhOstXFX</em></a></p>
+
+<br>
+
+If we removed the cover and looked with a magnifying glass we would observe the following: 
+
+
+
+![https://www.overclockersclub.com/vimages/intel_corei5750_corei7870/39.jpg](https://www.overclockersclub.com/vimages/intel_corei5750_corei7870/39.jpg)
+
+<p align="center"><a href="https://www.overclockersclub.com/reviews/intel_corei5750_corei7870/"><em>Intel Core i5 750 Core i7 870 Review by OverclockersClub</em></a></p>
+
+<br>
+
+**Note the following:**
+
+- Some PCIe (Peripheral Component Interconnect Express) connections are linked directly to the CPU. This is normally done for GPU communication. 
+- The Shared Cache is a type of memory similar to the RAM but much faster. It's used internally by the CPU to instantly hold parts of the data while it's being processed.
+
+<br>
+
+## Looking Deeper (optional)
+
+### The Fetch-Execute Cycle
+
+This video from Tom Scott does a great job at describing the Fetch-Execute cycle that happens during the processing of information:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5JC9Ve1sfI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+### CPU to Motherboard
+
+The CPU connects to the rest of the peripherals via the Chipset, which is located in the motherboard.
+
+<br>
+
+<img src="http://www.ixbt.com/mainboard/images/i55h-57h-chipsets/h57-block.png" alt="img"/>
+
+<br>
+
+Note the chipset to the left of the CPU in the motherboard below:
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Pentium_E2220_with_Intel_i945GC_Chipset.jpg/1920px-Pentium_E2220_with_Intel_i945GC_Chipset.jpg" alt="img"/>
+
+
+​	
