@@ -256,3 +256,11 @@ Note the chipset to the left of the CPU in the motherboard below:
 
 
 ​	
+
+### CPU in mode detail
+
+In this introductory course we have greatly simplified how the CPU works.
+
+If you would like to understand a little more, the following article by Red Hat is an excellent read:
+
+- [The central processing unit (CPU): Its components and functionality](https://www.redhat.com/sysadmin/cpu-components-functionality) by David Both (15 min read)
