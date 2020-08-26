@@ -23,7 +23,7 @@ By keeping track of this **On or Off state** (or condition) we can:
 
 - subtract,
 
-- do a combination of operations listed above.
+- any combination of the operations listed above.
 
 <br>
 
@@ -189,7 +189,7 @@ Intel Corp. introduced the first commercially produced microprocessor chip in 19
 
 <br>
 
-
+As a comparison, the Intel Core i5 750 CPU, from the previous section has a 2.66 GHz clock, making it about 2.6 million times faster. It also contains [774 million transistors](https://ark.intel.com/content/www/us/en/ark/products/42915/intel-core-i5-750-processor-8m-cache-2-66-ghz.html).
 
 
 
