@@ -300,13 +300,145 @@ In addition to languages, Unicode has enough space to represent **emojis**:
 
 <br>
 
-Unicode characters are typically listed in [Hexadecimal values](https://en.wikipedia.org/wiki/Hexadecimal) and are preceded by U+
+Unicode characters are typically listed as [Hexadecimal values](https://en.wikipedia.org/wiki/Hexadecimal) and are preceded by U+
 
 <br>
 
 ![image-20200831083210225](assets/image-20200831083210225.png)
 
 <p align="center"><a href="https://emojipedia.org/emoji/%F0%9F%98%82/"><em>Emoji with respective Unicode in hexadecimal value.</em></a></p>
+
+<br>
+
+## Representing Images
+
+Images are also stored and represented with binary data.
+
+**The smallest unit of color in a screen is a pixel.**
+
+> In order to draw on a screen the computer needs the instructions for how to "paint" each individual pixel.
+
+<br>
+
+Similarly to the binary to characters representation, the computer needs to know how to map (translate) a bit (or series of bits) to pixels.
+
+<br>
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Non-Retina_Display.jpg/640px-Non-Retina_Display.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Non-Retina_Display.jpg/640px-Non-Retina_Display.jpg)
+
+<p align="center"><a href="https://en.wikipedia.org/wiki/Retina_display"><em>Visible pixels of the iPhone 3</em></a></p>
+
+<br>
+
+To illustrate this, let's consider a black and white screen for simplicity. In this screen, each pixel can only be black if it's off (not emitting light) or white if it's on (emitting light). 
+
+**The ON / OFF state of the pixel is easily represented by the 1's and 0's state of a bit.**
+
+<br>
+
+If we had a screen that was 3x3 pixels, we could paint a simple check-board patterns using the following binary sequence: **101010101**
+
+Note that every time we reach the end of the 3x3 display, the next bit is added to the next row of pixels.
+
+<br>
+
+![image-20200901063622353](assets/image-20200901063622353.png)
+
+<p align="center"><a href="#"><em>3x3 black & white display. Bits are shown for convenience.</em></a></p>
+
+<br>
+
+With a 8x8 display we can start to draw recognizable images. Try to draw the 64 bit sequence below:
+
+
+
+0 0 0 0 0 0 0 0   0 1 1 0 0 1 1 0   0 1 1 0 0 1 1 0   0 0 0 1 1 0 0 0
+
+0 0 1 1 1 1 0 0   0 0 1 1 1 1 0 0   0 0 1 0 0 1 0 0   0 0 0 0 0 0 0 0 
+
+<br>
+
+You can use the spreadsheet below. Simply add a 1 to get a white pixel or add a 0 to get a black pixel (download or make a copy of the file).
+
+<br>
+
+[![image-20200901065149213](assets/image-20200901065149213.png)](https://docs.google.com/spreadsheets/d/1JCTKF_UC_HWlVEihiQ4gtn5mtZPI0YLNoiz79Zyllcg/edit#gid=151087122)
+
+<br>
+
+### Images with Color
+
+Color images work  in a similar way as black & white images, however, because each pixel can take-on a range of different colors, we need to provide more information than a single bit per pixel.
+
+<br>
+
+![image-20200901071359965](assets/image-20200901071359965.png)
+
+<p align="center"><a href="#"><em>Individual pixels of a color image</em></a></p>
+
+<br>
+
+We can form any color by combining three fundamental colors:
+
+- **R**ed
+- **G**reen
+- **B**lue
+
+<br>
+
+![image-20200901071832371](assets/image-20200901071832371.png)
+
+<br>
+
+> Using the principle of RGB color addition, for each individual pixel on the screen we define the intensity of the Red, Blue and Green color.
+>
+> The intensity of each RGB color is provided in a range from 0 to 255.
+
+<br>
+
+<iframe src="https://web.stanford.edu/class/cs101/image-rgb-explorer.html" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="460px" width="100%" allowfullscreen></iframe>
+
+<br>
+
+The following color is made by combining Red: 203, Green: 153, Blue: 126.
+
+![image-20200901072949590](assets/image-20200901072949590.png)
+
+<br>
+
+As seen before, the number 255 can be represented with a 8 bit number.
+
+**So if we convert the RGB numbers to binary, each color will have a byte (8 bits) representation.**
+
+The color above would be represented as (1100 1011, 1001 1001, 0111 1110  ), which are the bytes for the intensity of Red, Green and Blue respectively.
+
+<br>
+
+> Therefore, each pixel on the screen needs 3 bytes of information to be represented.
+>
+> An image that is 500x300 pixels has a total of 15,000 pixels and needs approximately 45,000 bytes of information to be represented.
+
+<br>
+
+When zooming into a color display you can see that each individual pixel is actually made of 3 tiny Red, Green, and Blue lights.
+
+[![iPhone Retina Display](https://prometheus.med.utah.edu/~bwjones/wp-content/uploads/2012/04/iPhone-Retina-Display2.jpg)](https://prometheus.med.utah.edu/~bwjones/wp-content/uploads/2012/04/iPhone-Retina-Display2.jpg)
+
+<p align="center"><a href="https://prometheus.med.utah.edu/~bwjones/2012/04/retina-display-revisited-for-the-ipad/"><em>iPhone 4 retina display</em></a></p>
+
+<br>
+
+## Recommended videos
+
+The following two videos do a great job summarizing the information in the section:
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/USCBCmwMCDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15aqFQQVBWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
