@@ -195,7 +195,7 @@ Enabling file extensions is not necessary but it will allow you to better unders
 
 <br>
 
-<img src="./assets/image-20200901101710345.png" alt="image-20200901101710345" width="400" />
+<img src="./wk2/assets/image-20200901101710345.png" alt="image-20200901101710345" width="400" />
 
 <br>
 
