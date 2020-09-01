@@ -7,3 +7,4 @@
 
 **Week 2**
 - [Binary data](wk2/binary_data.md)
+- [Operating Systems](wk2/operating_systems.md)
