@@ -311,7 +311,7 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
 2. Decompress it in a location of your choice
 
-3. Make note of the file size of each file. You will need this information in step X.
+3. Make note of the file size of each file. You will need this information in step 9.
 
 4. Organize the files into folders:
 
@@ -329,7 +329,7 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
 6. Compress each file individually.
 
-7. Make note of the file size after compression.
+7. Make note of the file size after compression. You will need this in step 9.
 
 8. Remove any uncompressed files.
 
