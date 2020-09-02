@@ -307,7 +307,7 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
 <br>
 
-1. Download the file: ***Practice File Compression***
+1. Download the file: ***File Compression***
 
 2. Decompress it in a location of your choice
 
