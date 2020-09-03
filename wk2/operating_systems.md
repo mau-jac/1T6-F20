@@ -329,7 +329,7 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
 6. Compress each file individually.
 
-7. Make note of the file size after compression. You will need this in step 9.
+7. Take note of the file size after compression. You will need this in step 9.
 
 8. Remove any uncompressed files.
 
@@ -337,6 +337,10 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
    - Use the file size to calculate the compression ratio. You can use ratio = 1- final / initial.
 
-10. Compress the top level directory *Practice 1.*
+10. Write down the compression ratios for each file in a file of  your choice (ex. a spreadsheet, Word file, txt file, picture, etc.)
 
-11. Upload the final compressed folder to Moodle under **Practice Assignment**.
+11. Include this document in the top level folder for this activity (Practice_1).
+
+12. Compress the top level directory *Practice 1.*
+
+13. Upload the final compressed folder to Moodle under **Practice Assignment**.
