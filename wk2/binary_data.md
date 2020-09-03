@@ -227,7 +227,7 @@ One early example of this translation system is the American 7-bit [ASCII charac
 
 <br>
 
-![img](https://lh4.googleusercontent.com/meovgpKKtYRukPNXncR0y8mgioPmmgV-bq22iuXdPTo8mnLGUHb8Kg8l8C4MCmsTC279zUFMuTYDRpNilX7e0bb6Q0UfWmys2lLGIOvR8Qqi6bfKMZ8atYjmvKUWpc1s6wHu0MeWGXc)
+![AscII table with a to J](https://lh4.googleusercontent.com/meovgpKKtYRukPNXncR0y8mgioPmmgV-bq22iuXdPTo8mnLGUHb8Kg8l8C4MCmsTC279zUFMuTYDRpNilX7e0bb6Q0UfWmys2lLGIOvR8Qqi6bfKMZ8atYjmvKUWpc1s6wHu0MeWGXc)
 
 <p align="center"><a href="https://www.rapidtables.com/code/text/ascii-table.html"><em>ASCII Character Table</em></a></p>
 
@@ -324,7 +324,7 @@ Similarly to the binary to characters representation, the computer needs to know
 
 <br>
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Non-Retina_Display.jpg/640px-Non-Retina_Display.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Non-Retina_Display.jpg/640px-Non-Retina_Display.jpg)
+![Close up of phone screen showing pixels](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Non-Retina_Display.jpg/640px-Non-Retina_Display.jpg)
 
 <p align="center"><a href="https://en.wikipedia.org/wiki/Retina_display"><em>Visible pixels of the iPhone 3</em></a></p>
 

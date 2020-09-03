@@ -86,7 +86,7 @@ It is the Kernel that manages requests to and from Input and Output devices (mou
 
 <br>
 
-<img src="https://lh3.googleusercontent.com/RjxOMaCXXK3KfrDr_QSTM4H7XRDcrOgW4kC-94NPV3gbBsiFO4gxdpyiVrtxvnuldbsOSDXOJCi3OyaLZhxhLsE0xe4-eGYSk30tD8a1YGf-gEQtrexgNQhqYXl4PuncY38Gg7ME5-8" alt="img" width="300" />
+<img src="https://lh3.googleusercontent.com/RjxOMaCXXK3KfrDr_QSTM4H7XRDcrOgW4kC-94NPV3gbBsiFO4gxdpyiVrtxvnuldbsOSDXOJCi3OyaLZhxhLsE0xe4-eGYSk30tD8a1YGf-gEQtrexgNQhqYXl4PuncY38Gg7ME5-8" alt="Beach shell with hermit crab inside" width="300" />
 
 <p align="center"><a href="https://aquaticarts.com/"><em>The Kernel controls the OS</em></a></p>
 
@@ -96,7 +96,7 @@ Below is a simplified diagram of the operating system indicating the relationshi
 
 <br>
 
-![image-20200901090030789](assets/image-20200901090030789.png)
+![Diagram of Operating System showing Shell and Kernel](assets/image-20200901090030789.png)
 
 <p align="center"><a href="#"><em>System components. Arrows show the direction of information exchange. OS is highlighted in yellow</em></a></p>
 
@@ -112,7 +112,7 @@ The Task Manger program is a graphical representation of the main resources mana
 
 <br>
 
-![img](https://lh4.googleusercontent.com/OImAqqMRI6ZxRHCMP_SgLbufpyNJKWk-mhE-9lEqZBjcDDpjY0OTeqoq7MOSKBxyY1DR-945SWw4-Y5LJ1Mhfjtumk6PlBdTXSYmYBq9c9qanl0wTGqi-7ak2L_gAQQ3zIgLuZR3TyY ':size=350')
+![Task Manager showing system resources](https://lh4.googleusercontent.com/OImAqqMRI6ZxRHCMP_SgLbufpyNJKWk-mhE-9lEqZBjcDDpjY0OTeqoq7MOSKBxyY1DR-945SWw4-Y5LJ1Mhfjtumk6PlBdTXSYmYBq9c9qanl0wTGqi-7ak2L_gAQQ3zIgLuZR3TyY ':size=350')
 
 <br>
 
@@ -132,7 +132,7 @@ In Windows, the root directories are assigned a letter and usually represent a S
 
 <br>
 
-![img](https://lh4.googleusercontent.com/3A-mIwIp0jHutvcl8n3BFJZY10CDS48hYrEGI575Fzf7jDVzqPwIk1F8z8d5oSnEEiK3Pc7zgxV_1KHWKQdx1oU_e0T09Ismt8rnuiwcr434iYN7KCRO9B6hyJFEZW7i_M6bT-UrbUM)
+![Tree diagram showing root directories in Windows](https://lh4.googleusercontent.com/3A-mIwIp0jHutvcl8n3BFJZY10CDS48hYrEGI575Fzf7jDVzqPwIk1F8z8d5oSnEEiK3Pc7zgxV_1KHWKQdx1oU_e0T09Ismt8rnuiwcr434iYN7KCRO9B6hyJFEZW7i_M6bT-UrbUM)
 
 <p align="center"><a href="#"><em>Windows file system with four root directories (A:, C:, D:, F:)</em></a></p>
 
@@ -321,7 +321,7 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
      <br>
 
-     ![image-20200902075649388](assets/image-20200902075649388.png)
+     ![File structure for exercise](assets/image-20200902075649388.png)
 
    <br>
 
