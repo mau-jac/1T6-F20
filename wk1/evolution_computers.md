@@ -85,7 +85,7 @@ Between the cathode and the anode there is a grid. If the grid has a positive ch
 
 <br>
 
-![vacuum_tube](assets/vacuum_tube.gif)
+![Animation of vacuum tube and electron flow](https://lh3.googleusercontent.com/ibNdqzyskhJtpTE28R00fyzRDrYlrOF4FjvO1DR0LzUH1Q3AOyVlGNd2th9BanAIvAL-dzCWXeVlrBsNXub6uyknMEmxJ0aiq3pUYQV15iNfWuKFAKalJ2DGHRFLVZbIU2QJOqnEg5I)
 
 <p align="center"><a href="https://www.youtube.com/watch?v=OwS9aTE2Go4"><em>Vacuum Tube Animation by Real Engineering</em></a></p>
 
@@ -119,7 +119,7 @@ The gate will only become a conductor if there are small amounts of electricity 
 
 <br>
 
-![mosfet2-s400](assets/mosfet2-s400.png)
+![Transistor diagram with Source, Gate and Drain](https://lh5.googleusercontent.com/qWYrmLdfi0dhzoWL0JqAb8TYlELzz79DAs6oah7q4lYxIG16aJD1po0YvHeWY-ENwE9f3JoUYUWVR4XCOZrVqULkEqTGiAeq8yY0VdCGtRO28jdvr_iLc5rPjU5vO8aW-LyGShnJ4N0)
 
 <p align="center"><a href="https://www.righto.com/2013/09/understanding-z-80-processor-one-gate.html"><em>Transistor Structure</em></a></p>
 
@@ -187,7 +187,7 @@ Notice how the identified regions are responsible for unique functions. Together
 
 <br>
 
-![https://lh3.googleusercontent.com/-rAx2FFK_vLs/WJvvCXX4FGI/AAAAAAABAOo/0kqv2hW-5SAFb6vmSLe8Qdpgl7RscuJFgCHM/w9999/die-alu-block-diagram.png](https://lh3.googleusercontent.com/-rAx2FFK_vLs/WJvvCXX4FGI/AAAAAAABAOo/0kqv2hW-5SAFb6vmSLe8Qdpgl7RscuJFgCHM/w9999/die-alu-block-diagram.png)
+![Intel 8008 CPU with regions like the ALU and Registers identified](https://lh3.googleusercontent.com/-rAx2FFK_vLs/WJvvCXX4FGI/AAAAAAABAOo/0kqv2hW-5SAFb6vmSLe8Qdpgl7RscuJFgCHM/w9999/die-alu-block-diagram.png)
 
 <p align="center"><a href="https://www.righto.com/2017/02/reverse-engineering-surprisingly.html"><em>Micro Architecture of the Intel 8008 CPU. Not all CPU components are identified.</em></a></p>
 
@@ -195,7 +195,7 @@ Notice how the identified regions are responsible for unique functions. Together
 
 Intel Corp. introduced the first commercially produced microprocessor chip in 1971. The Intel 4004 had a 108 kHz clock and contained 2300 transistors.
 
-![Intel C4004.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/1920px-Intel_C4004.jpg)
+![Close up of Intel C4004](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Intel_C4004.jpg/1920px-Intel_C4004.jpg)
 
 <p align="center"><a href="https://en.wikipedia.org/wiki/Intel_4004"><em>Intel 4004 CPU, 1971</em></a></p>
 
