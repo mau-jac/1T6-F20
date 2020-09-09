@@ -229,9 +229,11 @@ That is because we are specifying `Get-Command` as an argument to the `Get-Help`
 
 #### Set-Location
 
-Use the command `Set-Location` to move to a different directory in your file system.
+Use the command `Set-Location` to move to a different directory in your file system. **This cmdlet takes one argument, which is the directory to move into**.
 
-This cmdlet takes one argument, which is the directory to move into. It is common to use this command after `Get-ChildItem` , since the later will show you what are your available options.
+<br>
+
+It is common to use this command after `Get-ChildItem` , since the later will show you what are your available options.
 
 <br>
 
@@ -243,7 +245,7 @@ If the directory you would like to move into is sitting immediately inside the c
 
 <br>
 
-To move back "up" to the parent directory you can use the "double-dot" `..` notation (more on this later)
+**To move back "up" to the parent directory** you can use the "double-dot" `..` notation (more on this later)
 
 <br>
 
@@ -366,4 +368,175 @@ To clear the current screen:
 
 - Press: Ctrl + L, or
 - Type `cls`, or `clear`
+
+<br>
+
+### Alias for Command Shortcuts
+
+PowerShell commands are long since they use a verb-noun convention. To make it faster to use PowerShell, most commands have a "short-form" know as alias.
+
+>  An **alias** is simply a different name for the same command.
+
+Below are a few aliases for common cmdlets:
+
+| PowerShell Command | Aliases      |
+| ------------------ | ------------ |
+| Get-Command        | gc           |
+| Get-ChildItem      | gci, ls, dir |
+| Get-help           | help         |
+| Set-Location       | cd           |
+| Move-Item          | mv           |
+| Copy-Item          | cp           |
+| Remove-Item        | rm           |
+
+<br>
+
+To see a full list of all the aliases in PowerShell run the command `Get-Alias`
+
+If you would like to check which "verb-noun" command is invoked by an alias use `Get-Alias <alias>`.
+
+For example, to see  the full PowerShell "verb-noun" command behind the `rm` alias:
+
+![image-20200909071748810](assets/image-20200909071748810.png)
+
+<br>
+
+To see if a "verb-noun" command has an alias, you can add the `-Definition` parameter to the `Get-Alias` command.
+
+For example, to see the aliases for the `Set-Location` command:
+
+![image-20200909071842368](assets/image-20200909071842368.png)
+
+<br>
+
+### File path in the command-line
+
+When entering a file path that **contains spaces**, it is important to **add double or single quotes around the file path**.
+
+For example:
+
+When trying to navigate to `C:\Users\mauri\3D Objects`  in PowerShell:
+
+```powershell
+Set-Location 'C:\Users\mauri\3D Objects'
+```
+
+<br>
+
+If single or double quotes are not added, the command will interpret that the argument provided ends at the line space. After all, we use spaces to tell PowerShell that we are entering multiple arguments.
+
+<br>
+
+To move a file from `Downloads` to `3D Objects` we would execute the following command:
+
+```powershell
+Move-Item C:\Users\mauri\Downloads\Raspberry_PI.jpeg 'C:\Users\mauri\3D Objects\'
+```
+
+<br>
+
+Notice how the first argument (the item to be moved) did not have quotes around it. However, the second argument did (the location) since it contained a file path with empty spaces.
+
+<br>
+
+## Relative vs Absolute File Paths
+
+So far we've only used absolute paths in the command line.
+
+> An **absolute path** is a path that starts at a root directory.
+
+For example, the path to the image `C:\Users\mauri\Downloads\Raspberry_PI.jpeg`  starts from the root directory `C:`
+
+This means that regardless of the current directory (listed in the prompt), a command will always find it's way to the file.
+
+
+
+> **A relative path** describes a location in the file system based on the current location (current directory).
+>
+> To give relative locations we use two symbols: `.` ("dot") and `..` ("double-dot").
+>
+> `.`  represents the current directory
+>
+> `..`  represents the parent directory
+
+
+
+In the section above for the **Set-Location** command we used `..` to move back up one directory:
+
+![image-20200908104152296](assets/image-20200908104152296.png)
+
+<br>
+
+Since we were inside `Folder_1` and it is a child of `Downloads`, we simply asked PowerShell to move us from the current directory (`Folder_1`)  to it's parent (`Downloads`).
+
+<br>
+
+It is common to use the `Tab` key when specifying the directory to move into (with the `Set-Location` command):
+
+<br>
+
+![set-location_autocomplete](assets/set-location_autocomplete.gif)
+
+<br>
+
+Notice that when `Tab` was pressed, PowerShell autocompleted the file path from just `Fol` to `.\Folder_1\`.
+
+The `.` was added because we the file path is **relative to the current directory**.
+
+In other words, we are saying: "from the current directory, move inside `Folder_1`"
+
+<br>
+
+Consider the following directory structure:
+
+![image-20200909082958174](assets/image-20200909082958174.png)
+
+ <br>
+
+If we were sitting inside `Documents` and we wanted to move the file `Grace_Hopper.docx` to `Folder_1`, we could use relative paths:
+
+<br>
+
+![move_relative](assets/move_relative.gif)
+
+<br>
+
+It is possible to combine relative file paths multiple times:
+
+```powershell
+PS C:\Users\mauri\Downloads\Folder_1\Documents> cd ..\..
+PS C:\Users\mauri\Downloads>
+```
+
+Notice how we moved "up" to the parent directory twice, once for every `..` 
+
+<br>
+
+## Wild card *
+
+> In the command line the symbol  `*`  is used as a wild card to match zero or more characters.
+
+It is similar to a card game where the joker can assume the role of any other card.
+
+
+
+<br>
+
+For example, if we were in a directory and wanted to see the list of all .txt files (but nothing else), we could use `Get-ChildItem *.txt`
+
+![image-20200909085658669](assets/image-20200909085658669.png)
+
+<br>
+
+In the list above the wild-card `*`  "took-on" the value of any series of characters (ei. the file names) followed by the extension that we specified (`.txt`).
+
+<br>
+
+In a similar way, we could moved all the `.txt` files to `Folder_1\Documents`:
+
+```powershell
+Move-Item *.txt .\Documents
+```
+
+<br>
 
