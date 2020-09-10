@@ -540,3 +540,8 @@ Move-Item *.txt .\Documents
 
 <br>
 
+## Diving Deeper
+
+We've only scratched the surface of what PowerShell can do.
+
+The page [**Introduction to the Windows Command Line with PowerShell**](https://programminghistorian.org/en/lessons/intro-to-powershell)  goes into more detail and is an excellent reference.
