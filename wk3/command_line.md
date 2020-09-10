@@ -101,7 +101,7 @@ However, we already know that the *Locak Disk (C:)* is a root directory in the f
 
 ## Intro to PowerShell
 
-> If you would like to follow along, [download this zip](https://drive.google.com/file/d/1fLULfJddToEYUmHAe44jMJ-SKIjIv52w/view?usp=sharing) with the files and folders used in the examples.
+> If you would like to follow along, [download this zip](https://drive.google.com/file/d/1RT_udFW60bUXFKr_oazVvibkICnMGtXH/view?usp=sharing) with the files and folders used in the examples.
 
 
 
