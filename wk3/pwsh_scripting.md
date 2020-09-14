@@ -52,11 +52,55 @@ To modify your execution policy and learn about the **PowerShell ISE** follow th
 
 <br>
 
+## PowerShell Variables
+
+It is possible to use variables in PowerShell by using the "$" (dollar sign).
+
+To assign a value to a variable, we use the “=” operator. To display the value of a variable, simply enter the variable.
+
+<br>
+
+![image-20200914094637049](assets/image-20200914094637049.png)
+
+<br>
+
+You can perform arithmetic operations over numbers:
+
+![image-20200914094757815](assets/image-20200914094757815.png)
+
+<br>
+
+It is also possible to store strings inside variables by wrapping words in " " (double quotes).
+
+Two or more string variables can be combined with the "+" operator.
+
+![image-20200914095025589](assets/image-20200914095025589.png)
+
+<br>
+
+### User's home directory
+
+There is a special symbol 
+
+<br>
+
 ## Exercises
 
-Choose a selection of examples from:
+Open the [Tutorial's Point PowerShell page](https://www.tutorialspoint.com/powershell/index.htm) and complete the following examples:
 
-https://www.tutorialspoint.com/powershell/powershell_quick_guide.htm
+<br>
+
+[Files and Folder Operations Examples](https://www.tutorialspoint.com/powershell/powershell_files_folders.htm) (Sr.No.):
+
+- 1
+- 4 (only example 1) and
+- 8 of the following tutorial:
+
+[File I/O Operations Examples](https://www.tutorialspoint.com/powershell/powershell_files_io.htm) (Sr.No.):
+
+- 5
+- 9 and
+- 10
 
 <br>
 
