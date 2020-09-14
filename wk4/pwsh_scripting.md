@@ -78,9 +78,28 @@ Two or more string variables can be combined with the "+" operator.
 
 <br>
 
-### User's home directory
+### User's home directory ~
 
-There is a special symbol 
+The home user directory is a very common location in the file system of an user.
+
+> The symbol **~** (tilda) is a special symbol to represent the user's home folder.
+>
+> ~ means C:\Users\user_name
+
+A user  can use ~ anytime in the command like to **refer to the home directory as a file path**:
+
+```powershell
+PS C:\Windows\System32> cd ~
+PS C:\Users\mauri>
+```
+
+<br>
+
+Similarly, we moving the image "photo_1.png" to the user's "Pictures" folder, which is under the user's home directory:
+
+```powershell
+PS C:\Users\mauri\Downloads\Assign1\file_compression> mv .\photo_1.png ~\Pictures\
+```
 
 <br>
 
