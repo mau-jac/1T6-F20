@@ -109,17 +109,25 @@ Open the [Tutorial's Point PowerShell page](https://www.tutorialspoint.com/power
 
 <br>
 
+> - Some examples might require you to create some files before manipulating them.
+>   - See the second example in the list below to learn how to do that.
+> - If the file paths used in the examples do not exist in your file system, adjust them to an existing directory.
+
+
+
 [Files and Folder Operations Examples](https://www.tutorialspoint.com/powershell/powershell_files_folders.htm) (Sr.No.):
 
-- 1
-- 4 (only example 1) and
-- 8 of the following tutorial:
+- 1 - Creating Folders
+- 2 - Creating Files
+- 4 - Copying Files
+- 10 - Rename Files
 
 [File I/O Operations Examples](https://www.tutorialspoint.com/powershell/powershell_files_io.htm) (Sr.No.):
 
-- 5
-- 9 and
-- 10
+- 1 - Create Text File
+- 5 - Create CSV File *(Try opening the you have created in Excel )*
+- 9 - Erasing file content
+- 10 - Append Text Data
 
 <br>
 
