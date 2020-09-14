@@ -2,7 +2,7 @@
 - [About](/)
 
 **Week 4**
-- [Scripting in PowerShell](wk3/pwsh_scripting.md)
+- [Scripting in PowerShell](wk4/pwsh_scripting.md)
 
 
 **Week 3**
