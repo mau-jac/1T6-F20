@@ -77,10 +77,12 @@ Asking for help **at the right moments** will:
 
    
 
-4. **Do some research** (optional at school, highly recommended at work)
+4. **Do some research**
 
-   1. You are most likely not the first person to have this problem. Others might have written about it
-   2. Be careful with internet’s habit-holes!
+   1. **Read the course notes! 🙏**
+   2. Check the manual (official documentation)
+   3. You are most likely not the first person to have this problem. Others might have written about it
+   4. Be careful with internet’s habit-holes!
 
 <br>
 
