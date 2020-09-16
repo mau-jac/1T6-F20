@@ -3,6 +3,7 @@
 
 **Week 4**
 - [Scripting in PowerShell](wk4/pwsh_scripting.md)
+- [Abstraction & Help](wk4/asking_help.md)
 
 **Week 3**
 - [Command Line Shell](wk3/command_line.md)
