@@ -4,7 +4,7 @@
 
 # Welcome to 420-1T6
 
-> This is the companion site for the 420-2W6 course.
+> This is the companion site for the 420-1T6 course.
 >
 > In this website you will find :
 >
