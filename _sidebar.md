@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 5**
+- [Networking](wk5/networking_pt1.md)
+
 **Week 4**
 - [Scripting in PowerShell](wk4/pwsh_scripting.md)
 - [Abstraction & Help](wk4/asking_help.md)
