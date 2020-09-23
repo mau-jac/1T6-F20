@@ -3,7 +3,8 @@
 
 **Week 5**
 - [Networking](wk5/networking_pt1.md)
-- [Internet Access](wk5/reaching_internet.md)
+- [Reaching Internet](wk5/reaching_internet.md)
+- [Internet Protocols](wk5/internet_protocols.md)
 
 **Week 4**
 - [Scripting in PowerShell](wk4/pwsh_scripting.md)
