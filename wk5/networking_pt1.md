@@ -420,11 +420,15 @@ This is similar to the signal received for cable TV. The TV signal typically com
 >
 > Modem stands for **Mo**dulator / **Dem**odulator
 
-This is a encoding and decoding process. the logic is similar to the ASCII character encoding.
+This is an encoding and decoding process between two systems. The logic resembles the conversions that happen to go from text to binary in the ASCII encoding system.
 
 **The type of modem required depends on the physical media being used to transmit the signal over long distances.**
 
-We'll take a quick look at the following transmission services:
+<br>
+
+The physical media that connects a LAN to the internet depends on the connection services being purchased by the user.
+
+We'll take a quick look at the following connection services:
 
 - Dial-Up
 - DSL
@@ -562,7 +566,7 @@ MAC stands for **Media Access Code** and has the following format (in hexadecima
 
 A NIC is required for Ethernet or Wireless connections. For wireless its also called WNIC (W for wireless).
 
-Nowadays it's typically part of the motherboard
+Nowadays it's typically part of the motherboard.
 
 <br>
 

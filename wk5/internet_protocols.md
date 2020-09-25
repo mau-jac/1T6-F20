@@ -106,7 +106,7 @@ HTTP (HyperText Transfer Protocol) is the **underlying protocol** used by the Wo
 
 It defines how **requests and responses are formatted and transmitted**, and what actions Web Servers and Browsers take in response.
 
-When you type in a web address (URL) into your browser, this sends an HTTP command to the Web server directing it to fetch and transmit the requested webpage. 
+When you type in a web address (URL) into your browser, the browser sends an HTTP command to the Web server directing it to fetch and transmit the requested webpage. 
 
 <br>
 
@@ -217,16 +217,16 @@ Unlike the TCP protocol, UDP provides **unreliable** data delivery services.
 **Main Features:**
 
 - Does not requires a established connection between devices before transmission.
-- No assurance packets received in correct sequence.
-- No guarantee packets received.
-- No error checking, sequencing.
-- Significantly faster than TCP
+- No guarantee that packets are received.
+- No assurance that packets are received in correct sequence.
+- No error checking.
+- **Significantly faster than TCP**
 
 <br>
 
-> UDP is mostly useful in situation when the speed of transmission is more important than reliability.
+> UDP is mostly useful in situation when the speed of transmission is more important than quality.
 
-A common example is **Gaming and Video Conferencing** where it is more important that the nodes listening to the transmission receive the data in real time. If a few packets are lost and the video or the audio suffers, we just move on to the next set of packets.
+A common example is **Gaming and Video Conferencing,** where it is more important that the nodes listening to the transmission receive the data in real time. If a few packets are lost and the video or the audio suffers, we just move-on to the next set of packets.
 
 <br>
 
