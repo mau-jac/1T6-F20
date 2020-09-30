@@ -10,6 +10,6 @@ mkdir .\$top\1T6
 $txt_names = @('games','weekend','movies')
 
 foreach( $name in $txt_names ){
-    ni .\$top\Data\$name.txt
-    ni .\$top\Data\$name.png
+    ni .\$top\Data\Random\$name.txt
+    ni .\$top\Data\Ransom\$name.png
 }
