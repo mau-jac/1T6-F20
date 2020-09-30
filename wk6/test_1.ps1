@@ -11,5 +11,5 @@ $txt_names = @('games','weekend','movies')
 
 foreach( $name in $txt_names ){
     ni .\$top\Data\Random\$name.txt
-    ni .\$top\Data\Ransom\$name.png
+    ni .\$top\Data\Random\$name.png
 }
