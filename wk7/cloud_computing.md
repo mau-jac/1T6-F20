@@ -1,6 +1,6 @@
 # Cloud Computing
 
-> In simple terms, "the Cloud" refers to a network of computers connected to the internet.
+> In simple terms, "The Cloud" refers to a network of computers connected to the internet.
 
 
 

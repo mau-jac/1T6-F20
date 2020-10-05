@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 7**
+- [Cloud Computing](wk7/cloud_computing.md)
+
 **Week 5**
 - [Networking](wk5/networking_pt1.md)
 - [Reaching Internet](wk5/reaching_internet.md)
