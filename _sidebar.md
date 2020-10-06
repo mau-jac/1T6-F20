@@ -3,6 +3,7 @@
 
 **Week 7**
 - [Cloud Computing](wk7/cloud_computing.md)
+- [Data Protection](wk7/intro_encryption.md)
 
 **Week 5**
 - [Networking](wk5/networking_pt1.md)
