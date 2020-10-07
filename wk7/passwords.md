@@ -111,7 +111,7 @@ Developing good password habits comes down to the following:
 
 **Step 2:** Create strong passwords.
 
-**Step 3: ** Make passwords that are easy to use (not the same as easy to remember).
+**Step 3:** Make passwords that are easy to use (not the same as easy to remember).
 
 <br>
 
