@@ -195,7 +195,7 @@ There is no guarantee that:
 
 <br>
 
-![image-20201006091149505](assets/image-20201006091149505.png)
+![image-20201007141211611](assets/image-20201007141211611.png)
 
 <br>
 
@@ -213,7 +213,7 @@ This means that even though the service provider is storing the data, it has **n
 
 <br>
 
-![image-20201006092119733](assets/image-20201006092119733.png)
+![image-20201007141239130](assets/image-20201007141239130.png)
 
 <br>
 
