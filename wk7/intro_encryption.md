@@ -315,3 +315,9 @@ If you would like to understand the math behind asymmetric encryption watch the 
 - [Diffie-Hellman key exchange](https://www.khanacademy.org/computing/computer-science/cryptography/modern-crypt/v/diffie-hellman-key-exchange-part-2)
 
 <br>
+
+### Relevant xkcd
+
+![Messaging Systems](https://imgs.xkcd.com/comics/messaging_systems.png)
+
+<p align="center"><a href="https://xkcd.com/2365/"><em>Why unencrypted messaging is still a thing.</em></a></p>
