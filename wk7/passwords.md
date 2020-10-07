@@ -79,7 +79,7 @@ A study from Digital Guardian in 2017 reveled the following:
 
 <br>
 
-![image-20201007080523564](assets/image-20201007080523564.png)
+![image-20201007080523564](assets/image-20201007080523564-1602078637270.png)
 
 <p align="center"><a href="https://digitalguardian.com/blog/uncovering-password-habits-are-users-password-security-habits-improving-infographic"><em>60% of people in the US reuse their passwords to some degree</em></a></p>
 
@@ -89,7 +89,7 @@ Even if your password is incredibly unique, it only takes one data leak for it t
 
 <br>
 
-![the beloved pet comic strip](assets/image-20201007080922296.png ':size = 700')
+![the beloved pet comic strip](assets/image-20201007080922296-1602078637270.png ':size=500')
 
 <p align="center"><a href="https://www.chron.com/life/article/Does-your-password-pass-the-test-3684407.php"><em>It is not a matter of making your password unique.</em></a></p>
 
@@ -174,7 +174,7 @@ There are many options to choose from:
 
 <br>
 
-![image-20201007090329648](assets/image-20201007090329648.png)
+![image-20201007090329648](assets/image-20201007090329648-1602078762817.png)
 
 <br>
 
@@ -218,7 +218,7 @@ Here are some examples of Two Factor Authentication:
 
   <br>
 
-![image-20201007092906791](assets/image-20201007092906791.png)
+![image-20201007092906791](assets/image-20201007092906791-1602078762816-1602078856031.png)
 
 <br>
 
@@ -239,7 +239,7 @@ Here are some examples of Two Factor Authentication:
 
 - A physical key device typically shared like a USB that can plug and transfer a unique hard-coded signal.
 
-![FIDO U2F Yubikey](https://i.pcmag.com/imagery/articles/03D7Uccoor1xBJ48Im9JpXm-3.fit_scale.size_850x478.v1569491828.jpg ':size = 500')
+![FIDO U2F Yubikey](https://i.pcmag.com/imagery/articles/03D7Uccoor1xBJ48Im9JpXm-3.fit_scale.size_850x478.v1569491828.jpg ':size=500')
 
 <p align="center"><a href="https://www.pcmag.com/news/own-your-own-identity-with-universal-two-factor-authentication"><em>The Yubikey is an example of U2F keys</em></a></p>
 
@@ -262,3 +262,6 @@ If you are curious about why SMS tokens are not considered secure, take a look a
 - [This is why you shouldn’t use texts for two-factor authentication](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin), theverge.com
 - [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication), securityweek.com
 - [SMS-based two-factor authentication is not safe](https://www.kaspersky.com/blog/2fa-practical-guide/24219/), kaspersky.com
+
+<br>
+
