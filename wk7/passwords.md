@@ -146,11 +146,11 @@ If reusing passwords is bad and the average person has over 100 accounts, how do
 
 In theory it is perfectly feasible to keep track of your passwords in a piece of paper. However, over time, the added effort that it requires is likely to eventually lead to reusing passwords.
 
-In practice, my might just not have that piece of paper with us whenever we need it.
+In practice, you might just not have that piece of paper with you whenever you need it.
 
 <br>
 
-This is were password managers offer a **compromised solution**.
+This is where password managers offer a **compromised solution**.
 
 <br>
 
@@ -166,7 +166,7 @@ Password Managers are an encrypted database of passwords that is protected by a 
 
 **Disadvantages**
 
-- Single point of failure. Master password becomes a single point of failure. Should be made very strong.
+- Single point of failure. Master password becomes a critical piece of information. It should be made very strong and managed carefully.
 
 <br>
 
