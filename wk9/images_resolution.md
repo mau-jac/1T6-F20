@@ -102,7 +102,7 @@ Camera sensors are commonly rated in megapixels because that is how many distinc
 
 #### Screen resolutions
 
-Screen resolutions are typically a measure of the vertical pixels the packed in the monitor.
+Screen resolutions are typically measured as the vertical or horizontal pixels dimensions of a monitor.
 
 <br>
 
@@ -147,9 +147,9 @@ The aspect ratio of an image or a screen is equal to it's width divided by it's 
 For example, for an image with dimensions 1920 x 1080 pixels, the aspect ration is:
 
 <br>
-$$
-\frac{1920\ pixels}{1080\ pixels} = 16:9 = 1.777
-$$
+
+![image-20201019081727580](assets/image-20201019081727580.png)
+
 <br>
 
 >  An image can be cropped to a have a specific aspect ratio.
@@ -158,7 +158,7 @@ $$
 
 <br>
 
-In the image below the landscape image is being cropped to multiple images of different aspect ratios:
+In the image below the landscape image is being cropped to multiple images of different aspect ratios (follow the colored lines).
 
 <br>
 
@@ -168,9 +168,9 @@ In the image below the landscape image is being cropped to multiple images of di
 
    <br>
 
-In the animation below an image is first resized by changing the width and the height by the same amount (same aspect ratio).
+An image can be resized while respecting the aspect ratio by changing the width and the height by the same amount.
 
-The image is then distorted by changing the width and the height by different amounts.
+If the width and the height are changed by different amounts, the image is distorted. 
 
 ![aspect_ratio_deforming](assets/aspect_ratio_deforming.gif ':size=600')
 
@@ -178,7 +178,7 @@ The image is then distorted by changing the width and the height by different am
 
 ## Raster vs Vector Image Types
 
-So far we've only focused in one way of storing image information. However, there is a second way of storing image information.
+So far we've focused on storing image information as a pixel grid. However, there is a second way of storing image information.
 
 <br>
 
@@ -208,13 +208,11 @@ So far we've only focused in one way of storing image information. However, ther
 
 <br>
 
-There are many types of raster image file types, each one has it's Pros and Cons.
+There are many types of raster image file types, each one has it's pros and cons.
 
-We will look into some common formats for the web: `.jpeg`, `.png`, `.gif` and `.webp`. 
+Some common formats for the web are `.jpeg`, `.png`, `.gif` and `.webp`. 
 
 <br>
-
-
 
 #### JPEG
 
@@ -248,7 +246,7 @@ We will look into some common formats for the web: `.jpeg`, `.png`, `.gif` and `
 - Only 256 colors
 - Allows transparency.
 - Allows animation.
-- Typically smaller in size then jpeg.
+- Typically smaller in size than jpeg.
 
 
 
@@ -286,7 +284,7 @@ One of the images below is a raster image and the other is a vector image.
 
 <br>
 
-The vector image above has 3.7 kB in size while the raster equivalent has 9.5 kB. That is 2.5x smaller.
+The vector image above has 3.7 kB in size while the raster equivalent has 9.5 kB. This is a 2.5x size difference.
 
 <br>
 
@@ -357,7 +355,7 @@ SVG images are best used for:
 
 <br>
 
-> A photograph cannot be exported to svg. It must be "constructed" to an svg approximation.
+> A photograph cannot be exported to svg. It must be "constructed" into an svg approximation.
 
 Conversion programs exist but can only take you so far.
 
@@ -384,8 +382,6 @@ Below is a summary table for the image file formats covered in this chapter:
 |          [JPEG](http://en.wikipedia.org/wiki/JPEG)           |  Raster  |        No        |      No       |
 |          [WebP](http://en.wikipedia.org/wiki/WebP)           |  Raster  |       Yes        |      Yes      |
 |   [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)    |  Vector  |       Yes        |      Yes      |
-
-**lossless compression is technically part of the jpeg standard but rarely supported by programs and browsers.*
 
 <br>
 
