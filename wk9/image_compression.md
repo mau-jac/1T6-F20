@@ -2,7 +2,7 @@
 
 Most image file formats such as `.png`, `.jpeg` and `.gif` have the ability to undergo compression.
 
-This is similarly to compressing text files using `.zip` or `.7z`, however, the compression process is built into the image file itself.
+This is similar to compressing text files using `.zip` or `.7z`, however, the compression process is built into the image file itself.
 
 > The image file is first compressed when it is created and it is de-compressed every time it is used.
 
@@ -77,7 +77,7 @@ In order to reduce image load times we can focus on the following approaches:
 
 <br>
 
-# Choosing the image format
+## Choosing the image format
 
 Here is the summary table for all the formats we've looked at:
 
@@ -105,9 +105,9 @@ While there is no definite answer, below is a recommendation based on a few basi
 
 <br>
 
-# Optimizing Compression
+## Optimizing Compression
 
-Image compressors use a variety of techniques to reduce the number of required bits per pixel to reduce file size of the image.
+Image compressors use a variety of techniques to lower the number of required bits per pixel in order to reduce file size.
 
 <br>
 
@@ -118,15 +118,15 @@ There are two types of compression:
 
 <br>
 
-Differences in image formats are largely due to how compatible they are to lossy and lossless algorithms.
+Differences in image formats are largely due to how compatible they are with lossy and lossless compression algorithms.
 
 <br>
 
-## Lossy
+### Lossy
 
-Some **information is lost** during compression. Image after compression is of lower definition. This process is irreversible.
+In lossy compression some **information is lost** during. An image after compression is of lower definition. 
 
-When done properly, the loss in quality is barely noticeable. 
+**This process is irreversible.** However, when done properly, the loss in quality is barely noticeable. 
 
 <br>
 
@@ -143,11 +143,11 @@ When done properly, the loss in quality is barely noticeable.
 
 <br>
 
-**Simplifying pixels **
+**Simplifying pixels**
 
 It is possible to "group" neighboring pixels and apply the same color to the whole group.
 
-For example, in the animation below, pixels are group to progressively simplify the image:
+For example, in the animation below, pixels are grouped to progressively simplify the image:
 
 <br>
 
@@ -169,19 +169,19 @@ From left to right (PNG): 32-bit (4 channels, 16M colors), 7-bit (128 colors), 5
 
 <br>
 
-## Lossless
+### Lossless
 
-No **information is lost** during compression. Image before and after compression are **identical**.
+In lossless compression no **information is lost** during compression. Image before and after compression are **identical**.
 
-> Lossless compression shrinks images by replacing and substituting patterns in bits of pixel data.
+> Lossless compression shrinks images by replacing and substituting patterns observed in the pixel grid.
 
 
 
-This is done similarly to how .zip files are compressed. **This process is perfectly reversible.**
+This is done similarly to how `.zip` files are compressed. **This process is perfectly reversible.**
 
 <br>
 
-For example, in the image below (pixels are laid out as a  pixel array), patterns are simplified by listing the repetitions (run-length encoding).
+For example, in the image below (pixels are laid out as a  pixel array), patterns are simplified by listing the repetitions in color (run-length encoding).
 
 <br>
 
@@ -190,8 +190,6 @@ For example, in the image below (pixels are laid out as a  pixel array), pattern
 <p align="center"><a href="https://technofaq.org/posts/2018/02/pitfalls-to-avoid-when-choosing-images-for-your-webpage/"><em>Image by technofaq.org</em></a></p>
 
 <br>
-
-
 
 ## Compression Tools
 
@@ -213,7 +211,7 @@ Some online services offer the ability to optimize and further compress images:
 >
 > Always optimize compression before adding images to your production website!
 
-  <br>
+<br>
 
 ## Diving Deeper (optional)
 
