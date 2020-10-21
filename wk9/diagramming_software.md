@@ -38,13 +38,11 @@ Diagram:
 
 ## Diagramming Tools
 
-There is a plethora of diagramming tools available. They all work similarly.
+There is a plethora of diagramming tools available. For the most part they work similarly.
 
 <br>
 
-Here is a a few recommendations for general diagramming:
-
-<br>
+Here is a a few recommendations for general diagramming tools:
 
 ![image-20201021080931395](assets/image-20201021080931395.png)
 

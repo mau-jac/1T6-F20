@@ -4,6 +4,7 @@
 **Week 9**
 - [Digital Images](wk9/images_resolution.md)
 - [Image Compression](wk9/image_compression.md)
+- [Diagramming Tools](wk9/diagramming_software.md)
 
 **Week 7**
 - [Cloud Computing](wk7/cloud_computing.md)
