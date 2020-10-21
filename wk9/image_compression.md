@@ -204,6 +204,7 @@ Some online services offer the ability to optimize and further compress images:
 - [TinyPNG](https://tinypng.com/) and [TinyJPG](https://tinyjpg.com/)
 - [CompressPNG](https://compresspng.com/) and [CompressJPEG](https://compressjpeg.com/)
 - [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [ezgif.com](https://ezgif.com/optimize) 
 
 <br>
 
