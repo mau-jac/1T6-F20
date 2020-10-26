@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 10**
+- [Flowcharts](wk10/flowcharts.md)
+
 **Week 9**
 - [Digital Images](wk9/images_resolution.md)
 - [Image Compression](wk9/image_compression.md)
