@@ -1,31 +1,35 @@
 # System Architecture Diagrams
 
-In this chapter we will look at two types of architecture diagrams:
+In this chapter we will look at two types of architecture diagrams used in software engineering:
 
-- **Generic System Architecture diagrams** (no specific rules for describing elements)
+- **General System Architecture diagrams** (no specific rules for describing elements)
 - **UML Deployment diagrams** (has a spefic structure for how elements are illustrated)
 
 <br>
 
 System Architecture Diagrams illustrate the how the different components of a system work together.
 
-> Architecture diagrams can be "high-level" or very detailed. It depend's on **the audience.**
+
+
+## General System Architecture Diagrams
+
+> System Architecture diagrams can be "high-level" or very detailed. It depend's on **the audience.**
 
 This is a generic type of diagram and the level of detail will depend on the audience, **there is no technical specification for how it should be done.**
 
 <br>
 
-The goal is to identify and label the main software components and show their connections.
+The goal is to identify and label the main software components as well as their connections.
 
 <br>
 
 Below is the architecture diagram for an Android app prototype. The diagram is made for an "entry-level" technical audience and only features the main system components.
 
-The following is listed:
+The following is illustrated:
 
 - Major system components,
-- How components connect
-- No destinctions between types of servers or versions of Android.
+- How components connect,
+- No details regarding types of servers or versions of Android.
 
 <br>
 
@@ -35,9 +39,9 @@ The following is listed:
 
 <br>
 
-The next two diagrams illustrate how a Minicraft server running on Google Cloud Platform.
+The next two diagrams illustrate how a Minicraft server project runs on Google Cloud Platform.
 
-> Both diagrams illustrate the same system , however, they are intended to different audiences.
+> Both diagrams illustrate the same system, however, they are intended to different audiences.
 
 
 
@@ -51,10 +55,10 @@ Notice how the first diagram has less components and more generic names
 
 <br>
 
-Even though the diagram is simplistic, describes:
+Even though the diagram is simplistic it manages to describe:
 
-- where the system is run,
-- how the clients (users and micraft application) will interact with it,
+- Where the system is run,
+- How the clients (users and micraft application) will interact with the project,
 - All major components of the system.
 
 <br>
@@ -69,9 +73,9 @@ Below is the same system architecture but intended for a technical audience.
 
 <br>
 
-Now we will look at a type of 
+As previously mentioned, general system architecture diagrams can vary drastically in detail and scope.
 
-
+There is no "correct" way of doing it as long as you transmit the intended information to your audience.
 
 <br>
 
@@ -161,7 +165,7 @@ When creating a connection:
 
 Create a **deployment diagram** for an Android Application prototype.
 
-**Audience: **potential investors with basic networking knowledge
+**Audience:**potential investors with basic networking knowledge
 
 <br>
 
