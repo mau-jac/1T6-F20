@@ -3,6 +3,7 @@
 
 **Week 10**
 - [Flowcharts](wk10/flowcharts.md)
+- [Architecture Diagrams](wk10/deployment_diagrams.md)
 
 **Week 9**
 - [Digital Images](wk9/images_resolution.md)
