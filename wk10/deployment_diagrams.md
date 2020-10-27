@@ -134,7 +134,7 @@ Code instances (called artefacts in UML) represent the literal code that is runn
 
 Databases are responsible for storing user or application data. They represent a storage device as well as the software necessary to manage the storage device.
 
-**Databases are typically represented by a cylinder**
+> Databases can be represented by a cylinder or rectangle.
 
 A database needs an execution environment which needs to be identified.
 
