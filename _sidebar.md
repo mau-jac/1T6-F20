@@ -4,6 +4,7 @@
 **Week 10**
 - [Flowcharts](wk10/flowcharts.md)
 - [Architecture Diagrams](wk10/deployment_diagrams.md)
+- [MS Word: Styles](wk10/word-styles.md)
 
 **Week 9**
 - [Digital Images](wk9/images_resolution.md)
