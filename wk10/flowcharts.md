@@ -150,3 +150,15 @@ Create a swimlane for the following use-case: **A customer returns a car to the 
 
 
 Start by identifying your actors and the actions.
+
+<br>
+
+    <details>
+        <summary>Solution</summary>
+        <ul>
+            <li>
+                <img src="./wk10/assets/Wk10-ActivityDiagram-solution.png" alt="solution to chapter exercise"/>
+            </li>
+        </ul>
+    </details>
+

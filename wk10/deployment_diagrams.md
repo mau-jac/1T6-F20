@@ -165,7 +165,7 @@ When creating a connection:
 
 Create a **deployment diagram** for an Android Application prototype.
 
-**Audience:**potential investors with basic networking knowledge
+**Audience:** potential investors with basic networking knowledge
 
 <br>
 
@@ -176,4 +176,15 @@ The app uses HTTPS to communicate to the *Application Server*, which is run insi
 *Application Server* communicates to the main MySQL database over SSL. This database is running on a second Linux VM (virtual machine) deployed on AWS.
 
 There is a backup MySQL database also running on a Linux VM, which is deployed on Digital Ocean and it syncs to the main database over HTTPS.
+
+<br>
+
+<details>
+    <summary>Solution</summary>
+    <ul>
+        <li>
+            <img src="./wk10/assets/Wk10-Deployment_diagram.png" alt="solution to chapter exercise"/>
+        </li>
+    </ul>
+</details>
 
