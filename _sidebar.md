@@ -1,6 +1,10 @@
 **Home**
 - [About](/)
 
+**Week 11**
+- [Word Elements](wk11/manipulating_elements.md)
+
+
 **Week 10**
 - [Flowcharts](wk10/flowcharts.md)
 - [Architecture Diagrams](wk10/deployment_diagrams.md)
