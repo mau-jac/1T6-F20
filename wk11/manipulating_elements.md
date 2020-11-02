@@ -36,7 +36,7 @@ Download the Word file *Internship-Programs.docx* available in Moodle under Week
 3. Use Word's spelling and grammar rules to correct any language mistakes.
 4. Insert "Fall 2020" as the page footer.
 5. Insert page numbers in the top right of the pages.
-6. Download the Excel file *video-salaries.xlsx* from Teams under Week 10.
+6. Download the Excel file *video-salaries.xlsx*.
 7. Insert the chart from *video-salaries.xlsx* anywhere inside your Word document but make sure the data is linked.
    1. Change a value in your Excel file and update the chart in the Word document.
 
