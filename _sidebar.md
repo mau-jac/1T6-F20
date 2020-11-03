@@ -2,6 +2,7 @@
 - [About](/)
 
 **Week 11**
+- [Footnotes & Bibliography](wk11/footnotes_bibliography.md)
 - [Word Elements](wk11/manipulating_elements.md)
 
 
