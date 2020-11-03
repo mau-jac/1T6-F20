@@ -105,7 +105,7 @@ Follow the steps below:
 
 1. Using Word's *Citation* feature, add all the references used in the original paper.
    - Use APA citation style.
-   - Reference Type:
+   - Reference Type (if more accurate information is available feel free to use it).
      - Reference # 1: Report
      - Reference # 2,3,5,6: Website
      - Reference # 4: Book
