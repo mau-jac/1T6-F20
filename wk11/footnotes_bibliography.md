@@ -21,7 +21,7 @@ In the section we will learn how to insert and manage these two elements in MS W
 
 As an excellent written resource with step by step instructions, see:
 
-> [Microsoft Office Word: Tools for your Research Paper](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Formatting_Your_Document.pdf) by Kennesaw State University
+> [Microsoft Office Word: Tools for your Research Paper](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Tools_for_Your_Research_Paper.pdf) by Kennesaw State University
 
 ## ⚠ Citing from the Internet
 
