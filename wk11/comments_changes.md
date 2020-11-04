@@ -50,7 +50,7 @@ Complete the following tasks:
 3. Resolve the second comment.
 4. Accept the changes suggested in under *Steps* for *Windows' Snipping Tool*.
 
-**Tracking & Sharing **
+**Tracking & Sharing**
 
 1. Start tracking changes and finish the *Steps* for *Creating Gifs with ScreenToGif*.
 2. Share this file with **two colleagues** from the class so that they can edit the file.
