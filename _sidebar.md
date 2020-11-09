@@ -1,11 +1,13 @@
 **Home**
 - [About](/)
 
+**Week 12**
+- [Intro to Excel](wk12/intro_excel.md)
+
 **Week 11**
 - [Word Elements](wk11/manipulating_elements.md)
 - [Footnotes & Bibliography](wk11/footnotes_bibliography.md)
 - [Comments & Changes](wk11/comments_changes.md)
-
 
 **Week 10**
 - [Flowcharts](wk10/flowcharts.md)
