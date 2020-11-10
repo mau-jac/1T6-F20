@@ -11,8 +11,6 @@
 
 <br>
 
-Each of the chapters shared above include a practice workbook that we will complete in class.
-
 ## **Basic Functions**
 
 Please become familiar with the following basic Excel build-in functions:
