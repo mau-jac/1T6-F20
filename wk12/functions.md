@@ -2,9 +2,12 @@
 
 <br>
 
-> 📖 For this section of the notes please refer to the following resources from GCF Global
+> 📖 For this section of the notes please refer to the following resources:
 >
-> - [Functions](https://edu.gcfglobal.org/en/excel/functions/1/)
+> - [Functions](https://edu.gcfglobal.org/en/excel/functions/1/) by GCF Global
+> - [IF Function](https://support.microsoft.com/en-us/office/if-function-69aed7c9-4e8a-4755-a9bc-aa8bbff73be2) by Microsoft
+> - [COUNTIF](https://support.microsoft.com/en-us/office/countif-function-e0de10c6-f885-4e71-abb4-1f464816df34) by Microsoft
+> - [SUMIF](https://support.microsoft.com/en-us/office/sumif-c44b60c3-c9f4-4789-80fe-28a07f9b75b1?ui=en-US&rs=en-US&ad=US) by Microsoft
 
 <br>
 
@@ -167,7 +170,7 @@ Using sheet *Grades*, calculate the final grade that the student will receive.
 
 ### Exercise 2
 
-Using sheet *t-shirts*, generate a small summary table with the number t-shirts according to size.
+Using sheet *t-shirts*, generate a small summary table with the number of t-shirts according to size.
 
 ### Exercise 3
 
