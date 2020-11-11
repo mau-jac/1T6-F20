@@ -61,7 +61,7 @@ See the links below to learn how to extract the equation of a line from Excel:
 
 ## Exercises
 
-Download the Excel file *wk12-charts.xlsx* available in Moodle under Week 12.
+Download the Excel file *wk12-charts-exercises.xlsx* available in Moodle under Week 12.
 
 > Allways make sure your axis, title and legends are labeled properly.
 
