@@ -4,6 +4,7 @@
 **Week 12**
 - [Intro to Excel](wk12/intro_excel.md)
 - [Excel Functions](wk12/functions.md)
+- [Charts](wk12/charts.md)
 
 **Week 11**
 - [Word Elements](wk11/manipulating_elements.md)

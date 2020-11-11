@@ -140,7 +140,7 @@ Using a date in the condition:
 
 Sometimes our condition is that a cell contains a keyword.
 
-For example, consider the following data from an store's inventory:
+For example, consider the following data from a store's inventory:
 
 <br>
 
