@@ -36,7 +36,7 @@ The equation of a line is typically described as:
 
 <br>
 
-![img](https://lh3.googleusercontent.com/gw-QoaY4j5nnH1vsJ__MYCNhPvQjV4znobUBJ-YHhWH02oGATD1BKbJ6lVen5-AjdWbqg8uDATjfvKcAAfHBq-_Ut0ppGPTfQ12xR9wRI1fVGUutMwwRgV1MedawcMAUrQ-HIaCgP6U ':size=500')
+![img](https://lh3.googleusercontent.com/gw-QoaY4j5nnH1vsJ__MYCNhPvQjV4znobUBJ-YHhWH02oGATD1BKbJ6lVen5-AjdWbqg8uDATjfvKcAAfHBq-_Ut0ppGPTfQ12xR9wRI1fVGUutMwwRgV1MedawcMAUrQ-HIaCgP6U ':size=300')
 
 <br>
 
