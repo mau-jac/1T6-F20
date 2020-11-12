@@ -23,13 +23,13 @@ Most data is stolen because of two reasons:
 
 ### Misconfigured Computers
 
-Thanks to cloud computing services, it is very easy for someone to setup a publicly accessible computer. However, properly securing and maintaining the server times time and/or experience.
+Thanks to cloud computing services, it is very easy for someone to setup a publicly accessible computer. However, properly securing and maintaining the server takes time and/or experience.
 
 A common source of data leaks come from misconfigured online storage such as Amazon S3 storage.
 
 <br>
 
-A few articles with examples of leaked data from Amazon S3 storage: (click to access)
+A few articles with examples of leaked data from Amazon S3 storage: (click on images for access)
 
 <br>
 
@@ -170,7 +170,7 @@ Password Managers are an encrypted database of passwords that is protected by a 
 
 <br>
 
-There are many options to choose from:
+There are many options to choose from. Here are just some of them:
 
 <br>
 
