@@ -120,7 +120,7 @@ Resolution as pixel density is technically more correct than using it as pixel c
 
 <br>
 
-![Pixel Density Example](https://cdn.levvvel.com/wp-content/uploads/pixel-density-example.png)
+![image-20201117075017397](assets/image-20201117075017397.png)
 
 <p align="center"><a href="https://levvvel.com/pixel-density-resolution/"><em>Increasing pixel density.</em></a></p>
 
