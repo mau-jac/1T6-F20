@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 13**
+- [Sorting, Filtering & Conditional Formatting](wk13/sorting-filtering-formatting)
+
 **Week 12**
 - [Intro to Excel](wk12/intro_excel.md)
 - [Excel Functions](wk12/functions.md)
