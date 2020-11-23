@@ -6,6 +6,7 @@
 > - [Freezing Panes and View Options](https://edu.gcfglobal.org/en/excel/freezing-panes-and-view-options/1/) (not including split views)
 > - [Sorting Data](https://edu.gcfglobal.org/en/excel/sorting-data/1/)
 > - [Filtering Data](https://edu.gcfglobal.org/en/excel/filtering-data/1/)
+>   - For Mac users, see *Create a custom list to sort by* in [Sort a list of data in Excel for Mac](https://support.microsoft.com/en-us/office/sort-a-list-of-data-in-excel-for-mac-3b0e62c1-ef88-4176-babb-ccf1cb1e6145)
 > - [Conditional Formatting](https://edu.gcfglobal.org/en/excel/conditional-formatting/1/)
 
 
