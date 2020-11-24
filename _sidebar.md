@@ -3,7 +3,7 @@
 
 **Week 14**
 - [Presentation Software](wk14/presentations.md)
-- [Jobs in IT Field](wk14/jobs.md)
+- [IT Profession Overview](wk14/jobs.md)
 
 **Week 13**
 - [Sorting, Filtering & Conditional Formatting](wk13/sorting-filtering-formatting)
