@@ -26,7 +26,7 @@ All modern presentation software offers tools to automate the process of composi
 
 ## Presentation Tips
 
-<iframe src="https://johnabbott-my.sharepoint.com/personal/mauricio_buschinelli_johnabbott_qc_ca/_layouts/15/Doc.aspx?sourcedoc={35018b1d-cca9-48ed-8c85-197652c66090}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vST0kGvwTH0wfNmCDr0N_0b2PFbvKNpAsEqX8yCNxl341RVmQAbFhsRR6l75vW6cg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Exercises
 
