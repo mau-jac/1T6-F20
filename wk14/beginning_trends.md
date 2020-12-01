@@ -48,8 +48,6 @@ In the graph above, Stackoverflow shows trends in questions according to JavaScr
 
 <br>
 
-
-
 ![yoda meme](https://lh3.googleusercontent.com/6VTKSr2ocsAjK7cjlc2kGiXP8XnNghliLE_jSpuawnPzTB313pois4qLeDyrJ8tMASOJ3iAAQ7ZQnoAT-MtGR1lkENnEKMAdstLmLX6Tb88K0EeCu6IYWh9iZaXMgJYYlnHWrT01ahw ':size=500')
 
 <br>
