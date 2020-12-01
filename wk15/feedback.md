@@ -40,20 +40,30 @@ Conflict resolution is a well studied and documented process, however, it's beyo
 #### Be specific 🎯
 
 - Avoid general comments that won't help identify the specific behaviour being addressed.
+
 - Include examples of specific situations when you observed the behaviour.
 
-Example:
+  Example:
 
-  - "At the end of the last team meeting you interrupted me several times and wouldn't let me finish my progress updates."
-  - Instead of: "You always interrupt people and only care about your contributions."
+    - "At the end of the last team meeting you interrupted me several times and wouldn't let me finish my progress updates."
+        - Instead of: "You always interrupt people and only care about your contributions."
 
-
+  
 
 #### Focus on the behaviour, not the person 🚫👉
 
 - Avoid being accusatory. The receiver is more likely to stay open and listen.
 
-  - Examples of accusatory feedback
+  Examples:
+
+  - "I felt offended by your comment and I suspect others might feel similarly"
+
+    - Instead of: "You've just offended every person in this group".
+
+  - "How did that comment make you feel? You looked upset."
+    - Instead of: "Don't you think you over-reacted to that comment?"
+
+      
 
 - Speak from the "I" pronoun:
 
@@ -65,7 +75,7 @@ Example:
 
   - “I haven’t seen you in class in for a week. I’m worried that you are  missing important information. Can we meet soon to discuss it?”
   
-  - Instead of: “You obviously don’t care about this course!”
+    - Instead of: “You obviously don’t care about this course!”
   
     
 
@@ -89,7 +99,15 @@ Example:
 - Ask if any points need clarification.
 - Ask about the receiver's thoughts or feelings on the feedback given.
 
+<br>
 
+In the TED talk below, cognitive psychologist LeeAnn Renniger shares the findings from her research where she points out 4 steps to giving great feedback.
+
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wtl5UrrgU8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 ## Receiving Feedback
 
@@ -106,9 +124,9 @@ Example:
 #### Listen first 👂
 
 - Don't interrupt.
-- Focus on absorbing information rather than anticipating or assuming is being said.
+- Focus on absorbing information rather than anticipating or assuming what is being said.
 - Stay open to new ideas and different opinions.
-- Have a growth attitude about it.
+- Have a growth or learning attitude about it.
 
 
 
@@ -116,9 +134,21 @@ Example:
 
 - Ask for clarifications if necessary.
 - Summarize main points back to the feedback giver.
-- If feedback was given in a 
+- If the feedback style was unhelpful, explain the type of feedback you would need.
 
 
 
+#### Reflect and decide what to do 🤔
 
+- Take some time to reflect, you don't need to reply right the way.
+- If you disagree with the feedback, consider asking for a second opinion from someone else.
+- Decide what you want to do with the information you just received.
+
+
+
+## References
+
+These notes were made with the following resources:
+
+- [Receiving and Giving Effective Feedback](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/assessing-student-work/grading-and-feedback/receiving-and-giving-effective-feedback) by the Centre for Teaching Excellence of University of Waterloo
 
