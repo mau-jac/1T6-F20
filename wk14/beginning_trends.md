@@ -36,13 +36,15 @@ It is important to be able to see beyond trends, and focus on fundamentals. Thos
 
 In the graph above, Stackoverflow shows trends in questions according to JavaScript frameworks. As you can see, 2016 was all about AngularJs, which is currently at the bottom.
 
+<br>
+
 > If you master programming fundamentals, you can easily move between languages and framewords.
 
 **Learning to learn, is far more important than the language or framework that you are learning.**
 
 <br>
 
-Stackoverflow asked professional developers were **how often they have to learn a new technology**:
+Stackoverflow asked professional developers **how often they have to learn a new technology?**:
 
 <br>
 
@@ -56,13 +58,13 @@ Stackoverflow asked professional developers were **how often they have to learn 
 
 <br>
 
-### Keeping an eye on trends 👀
+## Keeping an eye on trends 👀
 
 Every year, the website Stackoverflow publishes the results of a survey that is taken by over 65,000 developers all over the world.
 
 It is a great place to identify and be aware of trends:
 
-[Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+[**Stack Overflow Annual Developer Survey**](https://insights.stackoverflow.com/survey)
 
 
 
