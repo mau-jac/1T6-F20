@@ -42,13 +42,17 @@ In the graph above, Stackoverflow shows trends in questions according to JavaScr
 
 <br>
 
+Stackoverflow asked professional developers were **how often they have to learn a new technology**:
+
+<br>
+
 ![image-20201125100253658](assets/image-20201125100253658.png)
 
 <p align="center"><a href="https://insights.stackoverflow.com/survey/2020#technology-learning-new-tech-frequency-professional-developers"><em>How often professional developpers need to learn new technologies.</em></a></p>
 
 <br>
 
-![yoda meme](https://lh3.googleusercontent.com/6VTKSr2ocsAjK7cjlc2kGiXP8XnNghliLE_jSpuawnPzTB313pois4qLeDyrJ8tMASOJ3iAAQ7ZQnoAT-MtGR1lkENnEKMAdstLmLX6Tb88K0EeCu6IYWh9iZaXMgJYYlnHWrT01ahw ':size=500')
+![yoda meme](https://lh3.googleusercontent.com/6VTKSr2ocsAjK7cjlc2kGiXP8XnNghliLE_jSpuawnPzTB313pois4qLeDyrJ8tMASOJ3iAAQ7ZQnoAT-MtGR1lkENnEKMAdstLmLX6Tb88K0EeCu6IYWh9iZaXMgJYYlnHWrT01ahw ':size=300')
 
 <br>
 
@@ -59,4 +63,24 @@ Every year, the website Stackoverflow publishes the results of a survey that is 
 It is a great place to identify and be aware of trends:
 
 [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+
+
+
+## Diving Deeper 🤿 (optional)
+
+To learn more about how different web technologies are connected, take a look at the following resource:
+
+- [The 2020 Web Developer Roadmap – A Visual Guide to Becoming a Front End, Back End, or DevOps Developer](https://www.freecodecamp.org/news/2019-web-developer-roadmap/)
+
+<br>
+
+This guide connects specific concepts and technologies in a typical developer's learning path.
+
+It also makes recommendations of things to focus on and things to avoid.
+
+**There is a lot of detail so be careful because it's easy to feel overwhelmed.**
+
+<br>
+
+![image-20201203074255469](assets/image-20201203074255469.png)
 
