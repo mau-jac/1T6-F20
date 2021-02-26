@@ -282,6 +282,16 @@ Someone snooping the traffic can only see the following:
 
 ### HTTPS
 
+#### Having fun with HTTPS 
+
+The website [howhttps.works](https://howhttps.works/) explains how HTTPS works through a comix series that is a lot of fun.
+
+![image-20210226170904336](./assets/image-20210226170904336.png)
+
+<br>
+
+#### Handshake Details
+
 Steps of how HTTPS works in more detail:
 
 1. Your browser reaches out to the website server, requests a connection and specifies the cryptographic algorithms it can support (the different encryption flavors).
